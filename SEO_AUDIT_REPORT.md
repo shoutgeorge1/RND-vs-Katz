@@ -10,25 +10,8 @@ This audit compares the SEO structure and content coverage of two construction c
 1. **RND Builders** (https://www.rndbuildersinc.com/)
 2. **Katz Design Builders** (https://katzdesignbuilders.com/)
 
-**Katz Design Builders**: 284 pages found in sitemap  
+**Katz Design Builders**: 284 pages found in sitemap
 **RND Builders**: 185 pages found in sitemap
-
-### Quick Action Summary
-
-**Priority 1 - Location Pages (Major Gap):**
-- Katz has **141 location pages** vs RND's **11**
-- **Action**: Create 130+ location-specific pages for target cities
-- **Impact**: Capture "near me" searches and local SEO traffic
-
-**Priority 2 - Service Page Depth:**
-- Katz has extensive service coverage (82 kitchen pages, 41 ADU pages, etc.)
-- **Action**: Expand service pages with location-specific variations
-- **Impact**: Better keyword coverage and user intent matching
-
-**Priority 3 - Maintain Blog Advantage:**
-- RND leads with **84 blog posts** vs Katz's **9**
-- **Action**: Continue publishing, optimize existing posts
-- **Impact**: Maintain thought leadership and informational search dominance
 
 ## 1. Sitemap & Robots.txt Status
 
@@ -63,248 +46,248 @@ This audit compares the SEO structure and content coverage of two construction c
 ### Service Pages
 
 #### Kitchen (82 pages)
-- https://katzdesignbuilders.com/services/kitchen-remodeling/
-- https://katzdesignbuilders.com/projects-type/kitchen-remodeling/
-- https://katzdesignbuilders.com/kitchen-remodeling-orange-county/
-- https://katzdesignbuilders.com/kitchen-remodeling-in-rossmoor/
-- https://katzdesignbuilders.com/kitchen-remodeling-in-seal-beach/
-- https://katzdesignbuilders.com/kitchen-remodeling-in-westchester/
-- https://katzdesignbuilders.com/kitchen-remodeling-in-playa-del-rey/
-- https://katzdesignbuilders.com/kitchen-remodeling-marina-del-rey/
-- https://katzdesignbuilders.com/kitchen-remodeling-in-long-beach/
-- https://katzdesignbuilders.com/kitchen-remodeling-westchester/
-- https://katzdesignbuilders.com/guides/how-to-design-a-kitchen-a-complete-guide-for-homeowner/
-- https://katzdesignbuilders.com/locations/top-kitchen-design-tips-for-a-stunning-and-functional-space-in-brea/
-- https://katzdesignbuilders.com/locations/expert-kitchen-remodeling-services-in-downey-transform-your-culinary-space/
-- https://katzdesignbuilders.com/locations/transform-your-cooking-space-with-expert-kitchen-remodeling-in-gardena/
-- https://katzdesignbuilders.com/locations/kitchen-remodeling-in-hidden-hills-transforming-spaces-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/custom-kitchen-remodeler-in-hollywood-hills-transforming-your-dream-kitchen-into-reality
-- https://katzdesignbuilders.com/locations/the-ultimate-guide-to-kitchen-remodeling-in-irvine/
-- https://katzdesignbuilders.com/locations/transform-your-home-with-exceptional-kitchen-remodeling-in-laguna-beach/
-- https://katzdesignbuilders.com/locations/transform-your-space-with-expert-kitchen-remodeling-los-angeles-services/
-- https://katzdesignbuilders.com/locations/kitchen-remodeling-in-long-beach-revitalize-your-space-with-katz-design-builders/
+- [Kitchen Remodeling Los Alamitos - Katz Design & Builders Inc](https://katzdesignbuilders.com/services/kitchen-remodeling/)
+- [Kitchen remodeling - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/kitchen-remodeling/)
+- [Kitchen Remodeling Orange County | Katz Design Builders](https://katzdesignbuilders.com/kitchen-remodeling-orange-county/)
+- [Kitchen Remodeling in Rossmoor - Katz Design & Builders Inc](https://katzdesignbuilders.com/kitchen-remodeling-in-rossmoor/)
+- [Kitchen Remodeling Seal Beach - Katz Design & Builders Inc](https://katzdesignbuilders.com/kitchen-remodeling-in-seal-beach/)
+- [Kitchen Remodeling in Westchester | Katz Design Builders](https://katzdesignbuilders.com/kitchen-remodeling-in-westchester/)
+- [Kitchen Remodeling in Playa Del Rey | Katz Builders](https://katzdesignbuilders.com/kitchen-remodeling-in-playa-del-rey/)
+- [Katz Design Builders: Kitchen Remodeling Marina Del Rey](https://katzdesignbuilders.com/kitchen-remodeling-marina-del-rey/)
+- [Kitchen Remodeling in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/kitchen-remodeling-in-long-beach/)
+- [Kitchen Remodeling Westchester - Katz Design & Builders Inc](https://katzdesignbuilders.com/kitchen-remodeling-westchester/)
+- [How to Design a Kitchen | Katz Design Builders Guide](https://katzdesignbuilders.com/guides/how-to-design-a-kitchen-a-complete-guide-for-homeowner/)
+- [Kitchen Design Tips for Brea Homes | Katz Design Builders](https://katzdesignbuilders.com/locations/top-kitchen-design-tips-for-a-stunning-and-functional-space-in-brea/)
+- [Kitchen Remodeling Downey Experts | Katz Design Builders](https://katzdesignbuilders.com/locations/expert-kitchen-remodeling-services-in-downey-transform-your-culinary-space/)
+- [Kitchen Remodeling in Gardena by Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-cooking-space-with-expert-kitchen-remodeling-in-gardena/)
+- [Kitchen Remodeling Hidden Hills | Katz Design Builders](https://katzdesignbuilders.com/locations/kitchen-remodeling-in-hidden-hills-transforming-spaces-with-katz-design-builders/)
+- [Custom Kitchen Remodeler in Hollywood Hills | Katz](https://katzdesignbuilders.com/locations/custom-kitchen-remodeler-in-hollywood-hills-transforming-your-dream-kitchen-into-reality)
+- [Kitchen Remodeling in Irvine Guide | Katz Design Builders](https://katzdesignbuilders.com/locations/the-ultimate-guide-to-kitchen-remodeling-in-irvine/)
+- [Laguna Beach Kitchen Remodeling Experts | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-home-with-exceptional-kitchen-remodeling-in-laguna-beach/)
+- [Kitchen Remodeling Los Angeles Experts | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-space-with-expert-kitchen-remodeling-los-angeles-services/)
+- [Kitchen Remodeling in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/locations/kitchen-remodeling-in-long-beach-revitalize-your-space-with-katz-design-builders/)
 - ... and 62 more
 
 #### Bathroom (25 pages)
-- https://katzdesignbuilders.com/services/bathroom-remodeling/
-- https://katzdesignbuilders.com/projects-type/bathroom/
-- https://katzdesignbuilders.com/bathroom-remodeling-orange-county/
-- https://katzdesignbuilders.com/bathroom-remodeling-marina-del-rey/
-- https://katzdesignbuilders.com/bathroom-remodeling-in-long-beach/
-- https://katzdesignbuilders.com/guides/how-to-design-a-bathroom-practical-steps-for-a-beautiful-functional-space/
-- https://katzdesignbuilders.com/locations/transform-your-bathroom-with-expert-remodeling-services-in-dana-point/
-- https://katzdesignbuilders.com/locations/bathroom-remodeling-in-hermosa-beach-transform-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/bathroom-remodeling-in-inglewood-transform-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/bathroom-remodeling-in-laguna-hills-your-gateway-to-luxury-and-functionality/
-- https://katzdesignbuilders.com/locations/transform-your-home-with-expert-bathroom-remodeling-in-norwalk/
-- https://katzdesignbuilders.com/locations/experience-exceptional-bathroom-remodeling-in-seal-beach/
-- https://katzdesignbuilders.com/locations/bathroom-remodeling-trabuco-caryon-elevate-your-space-with-style-and-functionality/
-- https://katzdesignbuilders.com/projects/master-bathroom-renovation-venetian-plaster-chino-hills/
-- https://katzdesignbuilders.com/projects/bathroom-remodel-in-seal-beach-ca/
-- https://katzdesignbuilders.com/projects/los-alamitos-ca-master-bathroom/
-- https://katzdesignbuilders.com/projects/master-bathroom-remodel-huntington-beach-ca/
-- https://katzdesignbuilders.com/projects/newport-beach-bathroom-remodel/
-- https://katzdesignbuilders.com/projects/bathroom-project/
-- https://katzdesignbuilders.com/how-long-does-a-bathroom-remodel-take-a-comprehensive-guide-2/
+- [Top Bathroom Remodeling in Los Alamitos | Katz Inc](https://katzdesignbuilders.com/services/bathroom-remodeling/)
+- [Bathroom - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/bathroom/)
+- [Bathroom Remodeling Orange County | Katz Design Builders](https://katzdesignbuilders.com/bathroom-remodeling-orange-county/)
+- [Bathroom Remodeling Marina Del Rey | Katz Builders](https://katzdesignbuilders.com/bathroom-remodeling-marina-del-rey/)
+- [Bathroom Remodeling in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/bathroom-remodeling-in-long-beach/)
+- [How to Design a Bathroom | Katz Design Builders](https://katzdesignbuilders.com/guides/how-to-design-a-bathroom-practical-steps-for-a-beautiful-functional-space/)
+- [Bathroom Remodeling Dana Point | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-bathroom-with-expert-remodeling-services-in-dana-point/)
+- [Bathroom Remodeling in Hermosa Beach | Katz Builders](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-hermosa-beach-transform-your-space-with-katz-design-builders/)
+- [Bathroom Remodeling in Inglewood | Katz Design Builders](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-inglewood-transform-your-space-with-katz-design-builders/)
+- [Bathroom Remodeling in Laguna Hills | Katz Design](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-laguna-hills-your-gateway-to-luxury-and-functionality/)
+- [Bathroom Remodeling in Norwalk | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-home-with-expert-bathroom-remodeling-in-norwalk/)
+- [Seal Beach Bathroom Remodeling Experts | Katz Design](https://katzdesignbuilders.com/locations/experience-exceptional-bathroom-remodeling-in-seal-beach/)
+- [Bathroom Remodeling Trabuco Canyon | Katz Design Builders](https://katzdesignbuilders.com/locations/bathroom-remodeling-trabuco-caryon-elevate-your-space-with-style-and-functionality/)
+- [Master Bathroom Renovation Chino Hills | Katz Design](https://katzdesignbuilders.com/projects/master-bathroom-renovation-venetian-plaster-chino-hills/)
+- [Bathroom Remodel in Seal Beach, CA](https://katzdesignbuilders.com/projects/bathroom-remodel-in-seal-beach-ca/)
+- [Los Alamitos, CA - Master Bathroom](https://katzdesignbuilders.com/projects/los-alamitos-ca-master-bathroom/)
+- [Master Bathroom remodel - Huntington Beach, CA](https://katzdesignbuilders.com/projects/master-bathroom-remodel-huntington-beach-ca/)
+- [Bathroom Remodel | Blackband Design](https://katzdesignbuilders.com/projects/newport-beach-bathroom-remodel/)
+- [Katz Design Builders | Custom Bathroom Project Ideas](https://katzdesignbuilders.com/projects/bathroom-project/)
+- [Bathroom Remodel Timeline: How Long Will It Take?](https://katzdesignbuilders.com/how-long-does-a-bathroom-remodel-take-a-comprehensive-guide-2/)
 - ... and 5 more
 
 #### Pool (18 pages)
-- https://katzdesignbuilders.com/services/pool-remodeling/
-- https://katzdesignbuilders.com/projects-type/pool-remodeling/
-- https://katzdesignbuilders.com/pool-remodeling-orange-county/
-- https://katzdesignbuilders.com/guides/how-to-renovate-a-pool-your-complete-guide-to-a-stunning-backyard-transformation/
-- https://katzdesignbuilders.com/locations/transform-your-backyard-with-exceptional-pool-remodeling-in-el-segundo/
-- https://katzdesignbuilders.com/locations/transform-your-backyard-oasis-with-expert-pool-remodeling-in-lakewood/
-- https://katzdesignbuilders.com/locations/expert-pool-remodeling-laguna-woods-services-for-your-dream-pool/
-- https://katzdesignbuilders.com/locations/expert-pool-remodeling-services-in-los-alamitos/
-- https://katzdesignbuilders.com/locations/revitalize-your-backyard-oasis-with-expert-pool-remodeling-in-newport-beach/
-- https://katzdesignbuilders.com/locations/transform-your-outdoor-space-with-expert-pool-remodeling-in-tustin/
-- https://katzdesignbuilders.com/locations/dive-into-luxury-with-professional-pool-remodeling-whittier-services/
-- https://katzdesignbuilders.com/locations/revamp-your-outdoor-oasis-with-expert-pool-remodeling-in-yorba-linda/
-- https://katzdesignbuilders.com/locations/transform-your-backyard-with-expert-pool-remodeling-in-santa-clarita/
-- https://katzdesignbuilders.com/projects/westchester-luxury-home-pool-casita/
-- https://katzdesignbuilders.com/projects/pool-resurface/
-- https://katzdesignbuilders.com/be-things-to-know-regarding-pool-remodeling-los-alamitos/
-- https://katzdesignbuilders.com/things-to-consider-while-reconstructing-your-home-swimming-pool/
-- https://katzdesignbuilders.com/category/pool/
+- [Pool Remodeling Los Alamitos - Katz Design & Builders Inc](https://katzdesignbuilders.com/services/pool-remodeling/)
+- [Pool remodelingPool remodeling - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/pool-remodeling/)
+- [Pool remodeling Orange County - Katz Design & Builders Inc](https://katzdesignbuilders.com/pool-remodeling-orange-county/)
+- [Renovate a Pool with Katz Design Builders | Expert Guide](https://katzdesignbuilders.com/guides/how-to-renovate-a-pool-your-complete-guide-to-a-stunning-backyard-transformation/)
+- [El Segundo Pool Remodeling Experts | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-backyard-with-exceptional-pool-remodeling-in-el-segundo/)
+- [Lakewood Pool Remodeling Experts – Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-backyard-oasis-with-expert-pool-remodeling-in-lakewood/)
+- [Pool Remodeling Laguna Woods Experts | Katz Design Builders](https://katzdesignbuilders.com/locations/expert-pool-remodeling-laguna-woods-services-for-your-dream-pool/)
+- [Katz Design Builders – Pool Remodeling Los Alamitos](https://katzdesignbuilders.com/locations/expert-pool-remodeling-services-in-los-alamitos/)
+- [Pool Remodeling in Newport Beach | Katz Design Builders](https://katzdesignbuilders.com/locations/revitalize-your-backyard-oasis-with-expert-pool-remodeling-in-newport-beach/)
+- [Expert Pool Remodeling in Tustin | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-outdoor-space-with-expert-pool-remodeling-in-tustin/)
+- [Expert Pool Remodeling Whittier Services | Katz Builders](https://katzdesignbuilders.com/locations/dive-into-luxury-with-professional-pool-remodeling-whittier-services/)
+- [Pool Remodeling in Yorba Linda by Katz Design Builders](https://katzdesignbuilders.com/locations/revamp-your-outdoor-oasis-with-expert-pool-remodeling-in-yorba-linda/)
+- [Backyard Pool Remodeling Santa Clarita | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-backyard-with-expert-pool-remodeling-in-santa-clarita/)
+- [Westchester Dream Home: Luxury 4000 SQF Build - Katz Design](https://katzdesignbuilders.com/projects/westchester-luxury-home-pool-casita/)
+- [Pool Resurface - Katz Design & Builders inc](https://katzdesignbuilders.com/projects/pool-resurface/)
+- [Be Things to Know Regarding Pool Remodeling Los Alamitos](https://katzdesignbuilders.com/be-things-to-know-regarding-pool-remodeling-los-alamitos/)
+- [Things To Consider While Reconstructing Your Home Swimming Pool](https://katzdesignbuilders.com/things-to-consider-while-reconstructing-your-home-swimming-pool/)
+- [No title](https://katzdesignbuilders.com/category/pool/)
 
 #### Home Remodel (32 pages)
-- https://katzdesignbuilders.com/services/home-remodeling-remodel-your-home-dream/
-- https://katzdesignbuilders.com/projects-type/home-remodel/
-- https://katzdesignbuilders.com/locations/home-remodeling-design-trends-in-anaheim-transform-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/transform-your-home-with-expert-home-remodeling-in-carson/
-- https://katzdesignbuilders.com/locations/home-remodeling-in-culver-city-transform-your-space-with-expert-craftsmanship/
-- https://katzdesignbuilders.com/locations/transform-your-covina-home-with-expert-home-remodeling/
-- https://katzdesignbuilders.com/locations/expert-home-remodeling-in-cerritos-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/transforming-homes-in-cypress-with-exceptional-remodeling-services/
-- https://katzdesignbuilders.com/locations/modern-home-remodeling-in-echo-park-ca-transforming-spaces-with-katz-design-builders
-- https://katzdesignbuilders.com/locations/residential-remodel-contractor-encino-ca-transforming-your-dream-home-with-katz-design-builders
-- https://katzdesignbuilders.com/locations/transform-your-space-with-a-home-remodel-in-hawthorne/
-- https://katzdesignbuilders.com/locations/full-home-remodel-contractor-hollywood-hills-transform-your-space-with-katz-design-builders
-- https://katzdesignbuilders.com/locations/elevate-your-living-space-expert-home-remodel-in-ladera-ranch/
-- https://katzdesignbuilders.com/locations/crafting-your-dream-space-home-remodeling-la-palma/
-- https://katzdesignbuilders.com/locations/home-remodel-services-in-lynwood-elevate-your-living-space/
-- https://katzdesignbuilders.com/locations/home-remodeling-in-orange-county-transform-your-dream-home-into-reality/
-- https://katzdesignbuilders.com/locations/elevate-your-living-space-with-exceptional-home-remodel-in-santa-ana/
-- https://katzdesignbuilders.com/locations/transform-your-living-space-with-home-remodeling-torrance-experts/
-- https://katzdesignbuilders.com/projects/naples-island-home-remodel/
-- https://katzdesignbuilders.com/projects/home-remodel-in-laguna-beach-ca/
+- [Home Remodeling - Remodel Your Home Dream](https://katzdesignbuilders.com/services/home-remodeling-remodel-your-home-dream/)
+- [Home Remodel - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/home-remodel/)
+- [Home Remodeling Trends in Anaheim | Katz Design Builders](https://katzdesignbuilders.com/locations/home-remodeling-design-trends-in-anaheim-transform-your-space-with-katz-design-builders/)
+- [Transform with Expert Home Remodeling | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-home-with-expert-home-remodeling-in-carson/)
+- [Home Remodeling in Culver City | Katz Design Builders](https://katzdesignbuilders.com/locations/home-remodeling-in-culver-city-transform-your-space-with-expert-craftsmanship/)
+- [Katz Design Builders – Covina Home Remodeling Pros](https://katzdesignbuilders.com/locations/transform-your-covina-home-with-expert-home-remodeling/)
+- [Home Remodeling Experts in Cerritos | Katz Design Builders](https://katzdesignbuilders.com/locations/expert-home-remodeling-in-cerritos-with-katz-design-builders/)
+- [Stunning Remodeling for Homes in Cypress | Katz Builders](https://katzdesignbuilders.com/locations/transforming-homes-in-cypress-with-exceptional-remodeling-services/)
+- [Echo Park Modern Home Remodeling by Katz Builders](https://katzdesignbuilders.com/locations/modern-home-remodeling-in-echo-park-ca-transforming-spaces-with-katz-design-builders)
+- [Residential Remodel Contractor in Encino | Katz Design](https://katzdesignbuilders.com/locations/residential-remodel-contractor-encino-ca-transforming-your-dream-home-with-katz-design-builders)
+- [Home Remodel in Hawthorne | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-space-with-a-home-remodel-in-hawthorne/)
+- [Hollywood Hills Full Home Remodel by Katz Design](https://katzdesignbuilders.com/locations/full-home-remodel-contractor-hollywood-hills-transform-your-space-with-katz-design-builders)
+- [Home Remodel in Ladera Ranch | Katz Design Builders](https://katzdesignbuilders.com/locations/elevate-your-living-space-expert-home-remodel-in-ladera-ranch/)
+- [Home Remodeling La Palma Experts | Katz Design Builders](https://katzdesignbuilders.com/locations/crafting-your-dream-space-home-remodeling-la-palma/)
+- [Lynwood Home Remodel Experts – Katz Design Builders](https://katzdesignbuilders.com/locations/home-remodel-services-in-lynwood-elevate-your-living-space/)
+- [Home Remodeling in Orange County | Katz Design Builders](https://katzdesignbuilders.com/locations/home-remodeling-in-orange-county-transform-your-dream-home-into-reality/)
+- [Stunning Home Remodel in Santa Ana | Katz Design Builders](https://katzdesignbuilders.com/locations/elevate-your-living-space-with-exceptional-home-remodel-in-santa-ana/)
+- [Home Remodeling Torrance Experts | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-living-space-with-home-remodeling-torrance-experts/)
+- [Naples Island Coastal Remodel | Katz Design Builders](https://katzdesignbuilders.com/projects/naples-island-home-remodel/)
+- [Home Remodel in Laguna Beach, CA | Katz Design Builders](https://katzdesignbuilders.com/projects/home-remodel-in-laguna-beach-ca/)
 - ... and 12 more
 
 #### Adu (41 pages)
-- https://katzdesignbuilders.com/services/adu-contractor/
-- https://katzdesignbuilders.com/projects-type/adu-conversion/
-- https://katzdesignbuilders.com/adu-addition-contractor-orange-county/
-- https://katzdesignbuilders.com/adu-room-addition-in-long-beach/
-- https://katzdesignbuilders.com/adu-room-addition-in-marina-del-rey/
-- https://katzdesignbuilders.com/adu-contractor-westchester/
-- https://katzdesignbuilders.com/adu-contractor-playa-del-rey/
-- https://katzdesignbuilders.com/guides/how-much-does-an-adu-cost-to-build/
-- https://katzdesignbuilders.com/locations/adu-setback-requirements-in-agoura-hills-essential-guidelines-for-your-project/
-- https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-coto-de-caza-transforming-spaces-enhancing-lives/
-- https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-garden-grove/
-- https://katzdesignbuilders.com/locations/adu-contractor-in-huntington-beach-transforming-spaces-enhancing-living/
-- https://katzdesignbuilders.com/locations/expert-adu-contractors-in-laguna-niguel-transforming-your-living-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/adu-renovation-in-malibu-transforming-spaces-enhancing-living/
-- https://katzdesignbuilders.com/locations/transform-your-living-space-with-expert-adu-contractors-in-san-clemente/
-- https://katzdesignbuilders.com/locations/custom-adu-builder-in-studio-city-transforming-spaces-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/let-your-imagination-run-wild-with-adu-and-room-addition-villa-park-designers/
-- https://katzdesignbuilders.com/projects/home-remodel-adu-conversion-in-hawthorne-ca/
-- https://katzdesignbuilders.com/projects/modern-adu-los-angeles/
-- https://katzdesignbuilders.com/adu-rental-income/
+- [ADU & Addition Contractor Los Alamitos](https://katzdesignbuilders.com/services/adu-contractor/)
+- [ADU / Conversion - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/adu-conversion/)
+- [ADU & addition contractor Orange County](https://katzdesignbuilders.com/adu-addition-contractor-orange-county/)
+- [Adu & Room Addition in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/adu-room-addition-in-long-beach/)
+- [Adu & Room Addition in Marina Del Rey](https://katzdesignbuilders.com/adu-room-addition-in-marina-del-rey/)
+- [ADU Contractor Westchester - Katz Design & Builders Inc](https://katzdesignbuilders.com/adu-contractor-westchester/)
+- [ADU Contractor Playa Del Rey - Katz Design & Builders Inc](https://katzdesignbuilders.com/adu-contractor-playa-del-rey/)
+- [ADU Cost to Build | Katz Design Builders Explains All](https://katzdesignbuilders.com/guides/how-much-does-an-adu-cost-to-build/)
+- [Agoura Hills ADU Setback Guide | Katz Design Builders](https://katzdesignbuilders.com/locations/adu-setback-requirements-in-agoura-hills-essential-guidelines-for-your-project/)
+- [Top ADU Contractor in Coto De Caza | Katz Design Builders](https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-coto-de-caza-transforming-spaces-enhancing-lives/)
+- [Katz Design Builders: ADU Contractor in Garden Grove](https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-garden-grove/)
+- [Huntington Beach ADU Contractor – Katz Design Builders](https://katzdesignbuilders.com/locations/adu-contractor-in-huntington-beach-transforming-spaces-enhancing-living/)
+- [Top ADU Contractors in Laguna Niguel | Katz Design](https://katzdesignbuilders.com/locations/expert-adu-contractors-in-laguna-niguel-transforming-your-living-space-with-katz-design-builders/)
+- [ADU Renovation in Malibu by Katz Design Builders](https://katzdesignbuilders.com/locations/adu-renovation-in-malibu-transforming-spaces-enhancing-living/)
+- [Top ADU Contractors in San Clemente | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-living-space-with-expert-adu-contractors-in-san-clemente/)
+- [Custom ADU Builder in Studio City | Katz Design Builders](https://katzdesignbuilders.com/locations/custom-adu-builder-in-studio-city-transforming-spaces-with-katz-design-builders/)
+- [ADU and Room Addition Villa Park Experts | Katz Builders](https://katzdesignbuilders.com/locations/let-your-imagination-run-wild-with-adu-and-room-addition-villa-park-designers/)
+- [Home Remodel, Major Addition & ADU Garage Conversion in Hawthorne.](https://katzdesignbuilders.com/projects/home-remodel-adu-conversion-in-hawthorne-ca/)
+- [Modern New build ADU in Los Angeles - We built a fantastic unit.](https://katzdesignbuilders.com/projects/modern-adu-los-angeles/)
+- [How to Maximize Your ADU Rental Income: Complete Guide](https://katzdesignbuilders.com/adu-rental-income/)
 - ... and 21 more
 
 #### Garage (15 pages)
-- https://katzdesignbuilders.com/services/garage-conversion/
-- https://katzdesignbuilders.com/guides/why-do-you-need-a-garage-conversion-specialist/
-- https://katzdesignbuilders.com/locations/transform-your-buena-park-garage-into-an-entertainment-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/garage-conversion-la-habra-transform-your-space-into-something-extraordinary/
-- https://katzdesignbuilders.com/locations/garage-conversion-lake-forest-transform-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/locations/garage-conversion-in-manhattan-beach-elevate-your-living-space/
-- https://katzdesignbuilders.com/locations/garage-conversion-expert-in-sherman-oaks-ca-transforming-your-space-with-katz-design-builders
-- https://katzdesignbuilders.com/locations/garage-conversion-rancho-palos-verdes-unlocking-your-homes-full-potential/
-- https://katzdesignbuilders.com/locations/garage-conversion-signal-hill-transforming-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/garage-conversion-specialist-los-angeles-transform-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/garage-conversion-ideas/
-- https://katzdesignbuilders.com/home-remodeling-how-a-garage-conversion-can-transform-your-living-space/
-- https://katzdesignbuilders.com/how-to-convert-your-garage-into-an-entertainment-space/
-- https://katzdesignbuilders.com/locations/garage-conversion-expert-in-sherman-oaks-ca-transforming-your-space-with-katz-design-builders/
-- https://katzdesignbuilders.com/category/garage/
+- [Garage Conversion Specialists in California](https://katzdesignbuilders.com/services/garage-conversion/)
+- [Need a Garage Conversion Specialist? Trust Katz Design Builders](https://katzdesignbuilders.com/guides/why-do-you-need-a-garage-conversion-specialist/)
+- [Katz Design Builders: Buena Park Garage Renovations](https://katzdesignbuilders.com/locations/transform-your-buena-park-garage-into-an-entertainment-space-with-katz-design-builders/)
+- [Garage Conversion La Habra Experts | Katz Design Builders](https://katzdesignbuilders.com/locations/garage-conversion-la-habra-transform-your-space-into-something-extraordinary/)
+- [Garage Conversion Lake Forest by Katz Design Builders](https://katzdesignbuilders.com/locations/garage-conversion-lake-forest-transform-your-space-with-katz-design-builders/)
+- [Garage Conversion in Manhattan Beach | Katz Builders](https://katzdesignbuilders.com/locations/garage-conversion-in-manhattan-beach-elevate-your-living-space/)
+- [Garage Conversion Expert in Sherman Oaks | Katz](https://katzdesignbuilders.com/locations/garage-conversion-expert-in-sherman-oaks-ca-transforming-your-space-with-katz-design-builders)
+- [Garage Conversion Rancho Palos Verdes | Katz Builders](https://katzdesignbuilders.com/locations/garage-conversion-rancho-palos-verdes-unlocking-your-homes-full-potential/)
+- [Garage Conversion Signal Hill by Katz Design Builders](https://katzdesignbuilders.com/locations/garage-conversion-signal-hill-transforming-your-space-with-katz-design-builders/)
+- [Garage Conversion Specialist | Los Angeles Experts](https://katzdesignbuilders.com/garage-conversion-specialist-los-angeles-transform-your-space-with-katz-design-builders/)
+- [Garage Conversion](https://katzdesignbuilders.com/garage-conversion-ideas/)
+- [Home Remodeling: Maximize Space with a Garage Conversion](https://katzdesignbuilders.com/home-remodeling-how-a-garage-conversion-can-transform-your-living-space/)
+- [How to Convert Your Garage into an Entertainment Space?](https://katzdesignbuilders.com/how-to-convert-your-garage-into-an-entertainment-space/)
+- [No title](https://katzdesignbuilders.com/locations/garage-conversion-expert-in-sherman-oaks-ca-transforming-your-space-with-katz-design-builders/)
+- [No title](https://katzdesignbuilders.com/category/garage/)
 
 #### Addition (7 pages)
-- https://katzdesignbuilders.com/locations/6-innovative-room-addition-ideas-for-your-beverly-hills-home/
-- https://katzdesignbuilders.com/locations/home-addition-contractor-in-sherman-oaks-transforming-your-space-with-katz-design-builders
-- https://katzdesignbuilders.com/projects/home-renovation-and-addition-in-huntington-beach/
-- https://katzdesignbuilders.com/projects/home-addition-in-ontario-ca/
-- https://katzdesignbuilders.com/projects/downey-home-remodel-addition/
-- https://katzdesignbuilders.com/transforming-spaces-the-art-of-room-addition-by-professional-home-builders/
-- https://katzdesignbuilders.com/locations/home-addition-contractor-in-sherman-oaks-transforming-your-space-with-katz-design-builders/
+- [6 Innovative Room Ideas for Beverly Hills Homes | KDB](https://katzdesignbuilders.com/locations/6-innovative-room-addition-ideas-for-your-beverly-hills-home/)
+- [Home Addition Contractor in Sherman Oaks | Katz](https://katzdesignbuilders.com/locations/home-addition-contractor-in-sherman-oaks-transforming-your-space-with-katz-design-builders)
+- [Home addition in Huntington Beach , CA](https://katzdesignbuilders.com/projects/home-renovation-and-addition-in-huntington-beach/)
+- [Ontario - Bedroom Addition by Katz Design Builders](https://katzdesignbuilders.com/projects/home-addition-in-ontario-ca/)
+- [Home Remodel and Addition by Katz Design & Builders](https://katzdesignbuilders.com/projects/downey-home-remodel-addition/)
+- [Transforming Spaces : The Art of Room Addition](https://katzdesignbuilders.com/transforming-spaces-the-art-of-room-addition-by-professional-home-builders/)
+- [No title](https://katzdesignbuilders.com/locations/home-addition-contractor-in-sherman-oaks-transforming-your-space-with-katz-design-builders/)
 
 ### Location Pages
 
 Katz has **141** location-specific pages targeting cities throughout Los Angeles and Orange County.
 
 **All Location Pages:**
-- [No title](https://katzdesignbuilders.com/rebuilding-after-the-recent-los-angeles-fires-your-guide-to-home-restoration-and-recovery/)
-- [No title](https://katzdesignbuilders.com/locations/)
-- [No title](https://katzdesignbuilders.com/adu-addition-contractor-orange-county/)
-- [No title](https://katzdesignbuilders.com/bathroom-remodeling-orange-county/)
-- [No title](https://katzdesignbuilders.com/home-renovations-contractors-orange-county/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-orange-county/)
-- [No title](https://katzdesignbuilders.com/pool-remodeling-orange-county/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-in-rossmoor/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-in-seal-beach/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-in-westchester/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-in-playa-del-rey/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-marina-del-rey/)
-- [No title](https://katzdesignbuilders.com/bathroom-remodeling-marina-del-rey/)
-- [No title](https://katzdesignbuilders.com/adu-room-addition-in-long-beach/)
-- [No title](https://katzdesignbuilders.com/adu-room-addition-in-marina-del-rey/)
-- [No title](https://katzdesignbuilders.com/bathroom-remodeling-in-long-beach/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-in-long-beach/)
-- [No title](https://katzdesignbuilders.com/adu-contractor-westchester/)
-- [No title](https://katzdesignbuilders.com/kitchen-remodeling-westchester/)
-- [No title](https://katzdesignbuilders.com/adu-contractor-playa-del-rey/)
-- [No title](https://katzdesignbuilders.com/locations/adu-setback-requirements-in-agoura-hills-essential-guidelines-for-your-project/)
-- [No title](https://katzdesignbuilders.com/locations/building-your-dream-home-in-altadena-a-complete-guide-to-getting-it-right/)
-- [No title](https://katzdesignbuilders.com/locations/home-remodeling-design-trends-in-anaheim-transform-your-space-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/top-kitchen-design-tips-for-a-stunning-and-functional-space-in-brea/)
-- [No title](https://katzdesignbuilders.com/locations/6-innovative-room-addition-ideas-for-your-beverly-hills-home/)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-buena-park-garage-into-an-entertainment-space-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/essential-tips-to-avoid-unexpected-costs-during-your-burbank-remodeling-project/)
-- [No title](https://katzdesignbuilders.com/locations/creating-your-costa-mesa-sunroom-retreat-a-sanctuary-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/why-some-home-improvement-projects-should-be-left-to-the-professionals-in-calabasas/)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-home-with-expert-home-remodeling-in-carson/)
-- [No title](https://katzdesignbuilders.com/locations/home-remodeling-in-culver-city-transform-your-space-with-expert-craftsmanship/)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-covina-home-with-expert-home-remodeling/)
-- [No title](https://katzdesignbuilders.com/locations/expert-home-remodeling-in-cerritos-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-coto-de-caza-transforming-spaces-enhancing-lives/)
-- [No title](https://katzdesignbuilders.com/locations/transforming-homes-in-cypress-with-exceptional-remodeling-services/)
-- [No title](https://katzdesignbuilders.com/locations/expert-kitchen-remodeling-services-in-downey-transform-your-culinary-space/)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-bathroom-with-expert-remodeling-services-in-dana-point/)
-- [No title](https://katzdesignbuilders.com/locations/modern-home-remodeling-in-echo-park-ca-transforming-spaces-with-katz-design-builders)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-backyard-with-exceptional-pool-remodeling-in-el-segundo/)
-- [No title](https://katzdesignbuilders.com/locations/residential-remodel-contractor-encino-ca-transforming-your-dream-home-with-katz-design-builders)
-- [No title](https://katzdesignbuilders.com/locations/hardscape-remodeling-in-fullerton-transform-your-outdoor-space-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-cooking-space-with-expert-kitchen-remodeling-in-gardena/)
-- [No title](https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-garden-grove/)
-- [No title](https://katzdesignbuilders.com/locations/kitchen-remodeling-in-hidden-hills-transforming-spaces-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-hermosa-beach-transform-your-space-with-katz-design-builders/)
-- [No title](https://katzdesignbuilders.com/locations/transform-your-space-with-a-home-remodel-in-hawthorne/)
-- [No title](https://katzdesignbuilders.com/locations/full-home-remodel-contractor-hollywood-hills-transform-your-space-with-katz-design-builders)
-- [No title](https://katzdesignbuilders.com/locations/adu-contractor-in-huntington-beach-transforming-spaces-enhancing-living/)
-- [No title](https://katzdesignbuilders.com/locations/custom-kitchen-remodeler-in-hollywood-hills-transforming-your-dream-kitchen-into-reality)
-- [No title](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-inglewood-transform-your-space-with-katz-design-builders/)
+- [Los Angeles Home Restoration After Wildfire Damage](https://katzdesignbuilders.com/rebuilding-after-the-recent-los-angeles-fires-your-guide-to-home-restoration-and-recovery/)
+- [Find Our Locations | Katz Design Builders Remodeling](https://katzdesignbuilders.com/locations/)
+- [ADU & addition contractor Orange County](https://katzdesignbuilders.com/adu-addition-contractor-orange-county/)
+- [Bathroom Remodeling Orange County | Katz Design Builders](https://katzdesignbuilders.com/bathroom-remodeling-orange-county/)
+- [Home Renovations Contractors Orange County](https://katzdesignbuilders.com/home-renovations-contractors-orange-county/)
+- [Kitchen Remodeling Orange County | Katz Design Builders](https://katzdesignbuilders.com/kitchen-remodeling-orange-county/)
+- [Pool remodeling Orange County - Katz Design & Builders Inc](https://katzdesignbuilders.com/pool-remodeling-orange-county/)
+- [Kitchen Remodeling in Rossmoor - Katz Design & Builders Inc](https://katzdesignbuilders.com/kitchen-remodeling-in-rossmoor/)
+- [Kitchen Remodeling Seal Beach - Katz Design & Builders Inc](https://katzdesignbuilders.com/kitchen-remodeling-in-seal-beach/)
+- [Kitchen Remodeling in Westchester | Katz Design Builders](https://katzdesignbuilders.com/kitchen-remodeling-in-westchester/)
+- [Kitchen Remodeling in Playa Del Rey | Katz Builders](https://katzdesignbuilders.com/kitchen-remodeling-in-playa-del-rey/)
+- [Katz Design Builders: Kitchen Remodeling Marina Del Rey](https://katzdesignbuilders.com/kitchen-remodeling-marina-del-rey/)
+- [Bathroom Remodeling Marina Del Rey | Katz Builders](https://katzdesignbuilders.com/bathroom-remodeling-marina-del-rey/)
+- [Adu & Room Addition in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/adu-room-addition-in-long-beach/)
+- [Adu & Room Addition in Marina Del Rey](https://katzdesignbuilders.com/adu-room-addition-in-marina-del-rey/)
+- [Bathroom Remodeling in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/bathroom-remodeling-in-long-beach/)
+- [Kitchen Remodeling in Long Beach | Katz Design Builders](https://katzdesignbuilders.com/kitchen-remodeling-in-long-beach/)
+- [ADU Contractor Westchester - Katz Design & Builders Inc](https://katzdesignbuilders.com/adu-contractor-westchester/)
+- [Kitchen Remodeling Westchester - Katz Design & Builders Inc](https://katzdesignbuilders.com/kitchen-remodeling-westchester/)
+- [ADU Contractor Playa Del Rey - Katz Design & Builders Inc](https://katzdesignbuilders.com/adu-contractor-playa-del-rey/)
+- [Agoura Hills ADU Setback Guide | Katz Design Builders](https://katzdesignbuilders.com/locations/adu-setback-requirements-in-agoura-hills-essential-guidelines-for-your-project/)
+- [Expert Home Build in Altadena | Katz Design Builders](https://katzdesignbuilders.com/locations/building-your-dream-home-in-altadena-a-complete-guide-to-getting-it-right/)
+- [Home Remodeling Trends in Anaheim | Katz Design Builders](https://katzdesignbuilders.com/locations/home-remodeling-design-trends-in-anaheim-transform-your-space-with-katz-design-builders/)
+- [Kitchen Design Tips for Brea Homes | Katz Design Builders](https://katzdesignbuilders.com/locations/top-kitchen-design-tips-for-a-stunning-and-functional-space-in-brea/)
+- [6 Innovative Room Ideas for Beverly Hills Homes | KDB](https://katzdesignbuilders.com/locations/6-innovative-room-addition-ideas-for-your-beverly-hills-home/)
+- [Katz Design Builders: Buena Park Garage Renovations](https://katzdesignbuilders.com/locations/transform-your-buena-park-garage-into-an-entertainment-space-with-katz-design-builders/)
+- [Avoid Costly Surprises in Burbank Remodeling | Katz](https://katzdesignbuilders.com/locations/essential-tips-to-avoid-unexpected-costs-during-your-burbank-remodeling-project/)
+- [Design Your Dream Sunroom Retreat | Katz Builders](https://katzdesignbuilders.com/locations/creating-your-costa-mesa-sunroom-retreat-a-sanctuary-with-katz-design-builders/)
+- [Why Pros Handle Home Improvement Projects | Katz Design](https://katzdesignbuilders.com/locations/why-some-home-improvement-projects-should-be-left-to-the-professionals-in-calabasas/)
+- [Transform with Expert Home Remodeling | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-home-with-expert-home-remodeling-in-carson/)
+- [Home Remodeling in Culver City | Katz Design Builders](https://katzdesignbuilders.com/locations/home-remodeling-in-culver-city-transform-your-space-with-expert-craftsmanship/)
+- [Katz Design Builders – Covina Home Remodeling Pros](https://katzdesignbuilders.com/locations/transform-your-covina-home-with-expert-home-remodeling/)
+- [Home Remodeling Experts in Cerritos | Katz Design Builders](https://katzdesignbuilders.com/locations/expert-home-remodeling-in-cerritos-with-katz-design-builders/)
+- [Top ADU Contractor in Coto De Caza | Katz Design Builders](https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-coto-de-caza-transforming-spaces-enhancing-lives/)
+- [Stunning Remodeling for Homes in Cypress | Katz Builders](https://katzdesignbuilders.com/locations/transforming-homes-in-cypress-with-exceptional-remodeling-services/)
+- [Kitchen Remodeling Downey Experts | Katz Design Builders](https://katzdesignbuilders.com/locations/expert-kitchen-remodeling-services-in-downey-transform-your-culinary-space/)
+- [Bathroom Remodeling Dana Point | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-bathroom-with-expert-remodeling-services-in-dana-point/)
+- [Echo Park Modern Home Remodeling by Katz Builders](https://katzdesignbuilders.com/locations/modern-home-remodeling-in-echo-park-ca-transforming-spaces-with-katz-design-builders)
+- [El Segundo Pool Remodeling Experts | Katz Builders](https://katzdesignbuilders.com/locations/transform-your-backyard-with-exceptional-pool-remodeling-in-el-segundo/)
+- [Residential Remodel Contractor in Encino | Katz Design](https://katzdesignbuilders.com/locations/residential-remodel-contractor-encino-ca-transforming-your-dream-home-with-katz-design-builders)
+- [Hardscape Remodeling in Fullerton | Katz Design Builders](https://katzdesignbuilders.com/locations/hardscape-remodeling-in-fullerton-transform-your-outdoor-space-with-katz-design-builders/)
+- [Kitchen Remodeling in Gardena by Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-cooking-space-with-expert-kitchen-remodeling-in-gardena/)
+- [Katz Design Builders: ADU Contractor in Garden Grove](https://katzdesignbuilders.com/locations/your-trusted-adu-contractor-in-garden-grove/)
+- [Kitchen Remodeling Hidden Hills | Katz Design Builders](https://katzdesignbuilders.com/locations/kitchen-remodeling-in-hidden-hills-transforming-spaces-with-katz-design-builders/)
+- [Bathroom Remodeling in Hermosa Beach | Katz Builders](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-hermosa-beach-transform-your-space-with-katz-design-builders/)
+- [Home Remodel in Hawthorne | Katz Design Builders](https://katzdesignbuilders.com/locations/transform-your-space-with-a-home-remodel-in-hawthorne/)
+- [Hollywood Hills Full Home Remodel by Katz Design](https://katzdesignbuilders.com/locations/full-home-remodel-contractor-hollywood-hills-transform-your-space-with-katz-design-builders)
+- [Huntington Beach ADU Contractor – Katz Design Builders](https://katzdesignbuilders.com/locations/adu-contractor-in-huntington-beach-transforming-spaces-enhancing-living/)
+- [Custom Kitchen Remodeler in Hollywood Hills | Katz](https://katzdesignbuilders.com/locations/custom-kitchen-remodeler-in-hollywood-hills-transforming-your-dream-kitchen-into-reality)
+- [Bathroom Remodeling in Inglewood | Katz Design Builders](https://katzdesignbuilders.com/locations/bathroom-remodeling-in-inglewood-transform-your-space-with-katz-design-builders/)
 - ... and 91 more
 
 ### Portfolio/Project Pages
 
 Katz has **47** individual project pages with detailed case studies.
 
-- [No title](https://katzdesignbuilders.com/projects/)
-- [No title](https://katzdesignbuilders.com/projects-type/bathroom/)
-- [No title](https://katzdesignbuilders.com/projects-type/kitchen-remodeling/)
-- [No title](https://katzdesignbuilders.com/projects-type/pool-remodeling/)
-- [No title](https://katzdesignbuilders.com/projects-type/home-remodel/)
-- [No title](https://katzdesignbuilders.com/projects-type/home-design-build/)
-- [No title](https://katzdesignbuilders.com/projects-type/outdoor-bbq-hardscape-remodeling/)
-- [No title](https://katzdesignbuilders.com/projects-type/adu-conversion/)
-- [No title](https://katzdesignbuilders.com/projects/home-remodel-adu-conversion-in-hawthorne-ca/)
-- [No title](https://katzdesignbuilders.com/projects/modern-adu-los-angeles/)
-- [No title](https://katzdesignbuilders.com/projects/2-story-home-construction/)
-- [No title](https://katzdesignbuilders.com/projects/long-beach-kitchen-renovation-open-concept/)
-- [No title](https://katzdesignbuilders.com/projects/long-beach-home-renovation/)
-- [No title](https://katzdesignbuilders.com/projects/naples-island-home-remodel/)
-- [No title](https://katzdesignbuilders.com/projects/front-backyard-renovation-ladera-heights/)
-- [No title](https://katzdesignbuilders.com/projects/master-bathroom-renovation-venetian-plaster-chino-hills/)
-- [No title](https://katzdesignbuilders.com/projects/exterior-renovation-redondo-beach-katz-design/)
-- [No title](https://katzdesignbuilders.com/projects/westchester-luxury-home-pool-casita/)
-- [No title](https://katzdesignbuilders.com/projects/home-renovation-and-addition-in-huntington-beach/)
-- [No title](https://katzdesignbuilders.com/projects/home-remodel-in-laguna-beach-ca/)
-- [No title](https://katzdesignbuilders.com/projects/home-remodel-flooring-and-structural-wall-in-orange-ca/)
-- [No title](https://katzdesignbuilders.com/projects/bathroom-remodel-in-seal-beach-ca/)
-- [No title](https://katzdesignbuilders.com/projects/kitchen-remodel-in-seal-beach-ca/)
-- [No title](https://katzdesignbuilders.com/projects/kitchen-master-bathroom-remodel-in-redondo-beach-ca/)
-- [No title](https://katzdesignbuilders.com/projects/los-alamitos-ca-master-bathroom/)
-- [No title](https://katzdesignbuilders.com/projects/master-bathroom-remodel-huntington-beach-ca/)
-- [No title](https://katzdesignbuilders.com/projects/los-angeles-kitchen-bathroom/)
-- [No title](https://katzdesignbuilders.com/projects/home-addition-in-ontario-ca/)
-- [No title](https://katzdesignbuilders.com/projects/completed-deck-project-in-westchester/)
-- [No title](https://katzdesignbuilders.com/projects/newport-beach-bathroom-remodel/)
+- [Projects Archive - Katz Design & Builders inc | Home Remodeling | ADU Contractor](https://katzdesignbuilders.com/projects/)
+- [Bathroom - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/bathroom/)
+- [Kitchen remodeling - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/kitchen-remodeling/)
+- [Pool remodelingPool remodeling - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/pool-remodeling/)
+- [Home Remodel - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/home-remodel/)
+- [Home Design + Build - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/home-design-build/)
+- [Outdoor BBQ / Hardscape remodeling](https://katzdesignbuilders.com/projects-type/outdoor-bbq-hardscape-remodeling/)
+- [ADU / Conversion - Katz Design & Builders inc](https://katzdesignbuilders.com/projects-type/adu-conversion/)
+- [Home Remodel, Major Addition & ADU Garage Conversion in Hawthorne.](https://katzdesignbuilders.com/projects/home-remodel-adu-conversion-in-hawthorne-ca/)
+- [Modern New build ADU in Los Angeles - We built a fantastic unit.](https://katzdesignbuilders.com/projects/modern-adu-los-angeles/)
+- [Katz Design Builders | 2-Story Home in Los Angeles, CA](https://katzdesignbuilders.com/projects/2-story-home-construction/)
+- [Katz Design Builders – Long Beach Modern Openness](https://katzdesignbuilders.com/projects/long-beach-kitchen-renovation-open-concept/)
+- [Long Beach Complete Revival | Katz Design Builders](https://katzdesignbuilders.com/projects/long-beach-home-renovation/)
+- [Naples Island Coastal Remodel | Katz Design Builders](https://katzdesignbuilders.com/projects/naples-island-home-remodel/)
+- [Front and Backyard Transformation in Ladera Heights](https://katzdesignbuilders.com/projects/front-backyard-renovation-ladera-heights/)
+- [Master Bathroom Renovation Chino Hills | Katz Design](https://katzdesignbuilders.com/projects/master-bathroom-renovation-venetian-plaster-chino-hills/)
+- [Modern Building Exterior Renovation](https://katzdesignbuilders.com/projects/exterior-renovation-redondo-beach-katz-design/)
+- [Westchester Dream Home: Luxury 4000 SQF Build - Katz Design](https://katzdesignbuilders.com/projects/westchester-luxury-home-pool-casita/)
+- [Home addition in Huntington Beach , CA](https://katzdesignbuilders.com/projects/home-renovation-and-addition-in-huntington-beach/)
+- [Home Remodel in Laguna Beach, CA | Katz Design Builders](https://katzdesignbuilders.com/projects/home-remodel-in-laguna-beach-ca/)
+- [Kitchen Remodel, Flooring, and Structural Wall in Orange, CA](https://katzdesignbuilders.com/projects/home-remodel-flooring-and-structural-wall-in-orange-ca/)
+- [Bathroom Remodel in Seal Beach, CA](https://katzdesignbuilders.com/projects/bathroom-remodel-in-seal-beach-ca/)
+- [Kitchen Remodel in Seal Beach, CA](https://katzdesignbuilders.com/projects/kitchen-remodel-in-seal-beach-ca/)
+- [Kitchen & Master Bathroom Remodel](https://katzdesignbuilders.com/projects/kitchen-master-bathroom-remodel-in-redondo-beach-ca/)
+- [Los Alamitos, CA - Master Bathroom](https://katzdesignbuilders.com/projects/los-alamitos-ca-master-bathroom/)
+- [Master Bathroom remodel - Huntington Beach, CA](https://katzdesignbuilders.com/projects/master-bathroom-remodel-huntington-beach-ca/)
+- [Los Angeles, CA - Kitchen & Bathroom](https://katzdesignbuilders.com/projects/los-angeles-kitchen-bathroom/)
+- [Ontario - Bedroom Addition by Katz Design Builders](https://katzdesignbuilders.com/projects/home-addition-in-ontario-ca/)
+- [Deck Installation - Westchester, CA](https://katzdesignbuilders.com/projects/completed-deck-project-in-westchester/)
+- [Bathroom Remodel | Blackband Design](https://katzdesignbuilders.com/projects/newport-beach-bathroom-remodel/)
 - ... and 17 more
 
 ### Blog/Resource Pages
 
 Katz has **9** blog/guide pages.
 
-- [No title](https://katzdesignbuilders.com/blog/)
-- [No title](https://katzdesignbuilders.com/guides/how-to-design-a-bathroom-practical-steps-for-a-beautiful-functional-space/)
-- [No title](https://katzdesignbuilders.com/guides/how-to-fix-a-muddy-backyard-expert-tips-for-a-drier-usable-outdoor-space/)
-- [No title](https://katzdesignbuilders.com/guides/how-much-does-an-adu-cost-to-build/)
-- [No title](https://katzdesignbuilders.com/guides/how-to-renovate-a-pool-your-complete-guide-to-a-stunning-backyard-transformation/)
-- [No title](https://katzdesignbuilders.com/guides/how-to-design-a-kitchen-a-complete-guide-for-homeowner/)
-- [No title](https://katzdesignbuilders.com/guides/why-do-you-need-a-garage-conversion-specialist/)
-- [No title](https://katzdesignbuilders.com/guides/)
+- [Blog - Katz Design & Builders Inc](https://katzdesignbuilders.com/blog/)
+- [How to Design a Bathroom | Katz Design Builders](https://katzdesignbuilders.com/guides/how-to-design-a-bathroom-practical-steps-for-a-beautiful-functional-space/)
+- [Fix Your Muddy Backyard | Expert Outdoor Tips & Ideas](https://katzdesignbuilders.com/guides/how-to-fix-a-muddy-backyard-expert-tips-for-a-drier-usable-outdoor-space/)
+- [ADU Cost to Build | Katz Design Builders Explains All](https://katzdesignbuilders.com/guides/how-much-does-an-adu-cost-to-build/)
+- [Renovate a Pool with Katz Design Builders | Expert Guide](https://katzdesignbuilders.com/guides/how-to-renovate-a-pool-your-complete-guide-to-a-stunning-backyard-transformation/)
+- [How to Design a Kitchen | Katz Design Builders Guide](https://katzdesignbuilders.com/guides/how-to-design-a-kitchen-a-complete-guide-for-homeowner/)
+- [Need a Garage Conversion Specialist? Trust Katz Design Builders](https://katzdesignbuilders.com/guides/why-do-you-need-a-garage-conversion-specialist/)
+- [Expert Remodeling Guides | Katz Design Builders](https://katzdesignbuilders.com/guides/)
 - [No title](https://katzdesignbuilders.com/category/blog/)
 
 ## 4. Content Gaps Analysis

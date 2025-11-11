@@ -2,201 +2,756 @@
   "total_urls": 185,
   "categories": {
     "services": [
-      "https://www.rndbuildersinc.com/build/",
-      "https://www.rndbuildersinc.com/build/custom-homes/",
-      "https://www.rndbuildersinc.com/additions/",
-      "https://www.rndbuildersinc.com/adu/",
-      "https://www.rndbuildersinc.com/renovate/",
-      "https://www.rndbuildersinc.com/interior/",
-      "https://www.rndbuildersinc.com/renovate/garage-conversion/",
-      "https://www.rndbuildersinc.com/kitchens/",
-      "https://www.rndbuildersinc.com/bathrooms/",
-      "https://www.rndbuildersinc.com/outdoors/",
-      "https://www.rndbuildersinc.com/category/adu/",
-      "https://www.rndbuildersinc.com/category/builders/",
-      "https://www.rndbuildersinc.com/outdoors/swimming-pools/",
-      "https://www.rndbuildersinc.com/outdoors/outdoor-kitchen/",
-      "https://www.rndbuildersinc.com/outdoors/fences-patios/",
-      "https://www.rndbuildersinc.com/outdoors/ground-cover/",
-      "https://www.rndbuildersinc.com/category/builders/page/2/"
+      {
+        "url": "https://www.rndbuildersinc.com/build/",
+        "title": "Custom Home Builders in Ventura County | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/build/custom-homes/",
+        "title": "Top Custom Home Remodeling Contractor In Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/additions/",
+        "title": "Top Home Additions Ventura County | Custom Room Additions"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/adu/",
+        "title": "Top ADU Construction in Ventura County | Garage Conversion"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/renovate/",
+        "title": "Home Renovations in Ventura County | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/interior/",
+        "title": "Interior Remodeling & Design in Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/renovate/garage-conversion/",
+        "title": "Garage Conversions in Ventura County | Garage Remodelers"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/kitchens/",
+        "title": "Ventura Kitchen Remodeling | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/bathrooms/",
+        "title": "Bathroom Remodeling Service in Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/outdoors/",
+        "title": "Landscaping & Outdoor Services | Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/adu/",
+        "title": "ADU Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/builders/",
+        "title": "Builders Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/outdoors/swimming-pools/",
+        "title": "Swimming Pool Contractor in Ventura County | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/outdoors/outdoor-kitchen/",
+        "title": "Outdoor Kitchen Builders in Ventura County | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/outdoors/fences-patios/",
+        "title": "Fence & Patio Installation in Ventura County | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/outdoors/ground-cover/",
+        "title": "Landscaping in Ventura County | Ground Cover Installation"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/builders/page/2/",
+        "title": "No title"
+      }
     ],
     "portfolio": [
-      "https://www.rndbuildersinc.com/recent-work/",
-      "https://www.rndbuildersinc.com/recent-work/woodland-hills-custom-home/",
-      "https://www.rndbuildersinc.com/recent-work/simi-valley-exterior-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/valley-village-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/redondo-beach-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/camarillo-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-full-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-2-bathrooms-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/oxnard-bathroom-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/138th-st-hawthorne-adu/",
-      "https://www.rndbuildersinc.com/recent-work/west-hills-full-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/139th-st-hawthorne-adu/",
-      "https://www.rndbuildersinc.com/recent-work/santa-rosa-valley-home-addition/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-complete-remodel-addition/",
-      "https://www.rndbuildersinc.com/recent-work/hawt/",
-      "https://www.rndbuildersinc.com/recent-work/la-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/ingle/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodels/",
-      "https://www.rndbuildersinc.com/recent-work/newbury-park-bathroom-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/newbury-park-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/simi-valley-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/woodlake-home-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/echopark/",
-      "https://www.rndbuildersinc.com/recent-work/moorpark-bathroom-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-patio-cover/",
-      "https://www.rndbuildersinc.com/recent-work/newbury-park-bathroom-remodel-2/",
-      "https://www.rndbuildersinc.com/recent-work/newbury-park-home-addition/",
-      "https://www.rndbuildersinc.com/recent-work/los-angeles-pool-backyard-construction/",
-      "https://www.rndbuildersinc.com/recent-work/westlake-village-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/calabasas-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/kitchen-oxnard/",
-      "https://www.rndbuildersinc.com/recent-work/camarillo-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousandoaks/",
-      "https://www.rndbuildersinc.com/recent-work/westhills/",
-      "https://www.rndbuildersinc.com/recent-work/placentia/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodel-2/",
-      "https://www.rndbuildersinc.com/recent-work/thousandoaksremodel/",
-      "https://www.rndbuildersinc.com/recent-work/simi-valley-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/los-angeles-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodel-3/",
-      "https://www.rndbuildersinc.com/recent-work/susan-dr-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/cindy-ave-kitchen-remodel/",
-      "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodel-4/",
-      "https://www.rndbuildersinc.com/recent-work/la-homeremodel/",
-      "https://www.rndbuildersinc.com/recent-work/lapuente/",
-      "https://www.rndbuildersinc.com/recent-work/torr2/",
-      "https://www.rndbuildersinc.com/recent-work/manhattan/",
-      "https://www.rndbuildersinc.com/recent-work/gardengrove/",
-      "https://www.rndbuildersinc.com/recent-work/monte/",
-      "https://www.rndbuildersinc.com/recent-work/chats/"
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/",
+        "title": "RnD Builders Inc | Recent Work"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/woodland-hills-custom-home/",
+        "title": "Woodland Hills Custom Home Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/simi-valley-exterior-remodel/",
+        "title": "Simi Valley Exterior Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/valley-village-home-remodel/",
+        "title": "Valley Village Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/redondo-beach-home-remodel/",
+        "title": "Redondo Beach Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/camarillo-home-remodel/",
+        "title": "Camarillo Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-full-home-remodel/",
+        "title": "Thousand Oaks Full Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-2-bathrooms-remodel/",
+        "title": "Thousand Oaks (2) Bathrooms Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/oxnard-bathroom-remodel/",
+        "title": "Oxnard Bathroom Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/138th-st-hawthorne-adu/",
+        "title": "138th St ADU Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/west-hills-full-remodel/",
+        "title": "West Hills Complete Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/139th-st-hawthorne-adu/",
+        "title": "139th St ADU Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/santa-rosa-valley-home-addition/",
+        "title": "Santa Rosa Valley Home Addition Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-home-remodel/",
+        "title": "Thousand Oaks Complete Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-complete-remodel-addition/",
+        "title": "Thousand Oaks Complete Home Remodel & Addition Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/hawt/",
+        "title": "Hawthorne ADU and Addition"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/la-kitchen-remodel/",
+        "title": "Los Angeles Custom Kitchen Remodel | Project Work"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/ingle/",
+        "title": "Inglewood ADU & Addition"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodels/",
+        "title": "Thousand Oaks Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/newbury-park-bathroom-remodel/",
+        "title": "Custom Newbury Park Bathroom Remodel | Project Work"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/newbury-park-home-remodel/",
+        "title": "Newbury Park Complete Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/simi-valley-home-remodel/",
+        "title": "Simi Valley Complete Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/woodlake-home-remodel/",
+        "title": "Woodlake Complete Home Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/echopark/",
+        "title": "Echo Park Complete Remodel | Interior Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/moorpark-bathroom-remodel/",
+        "title": "Moorpark Bathroom Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-patio-cover/",
+        "title": "Thousand Oaks Patio Cover Construction Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/newbury-park-bathroom-remodel-2/",
+        "title": "Newbury Park Bathroom Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/newbury-park-home-addition/",
+        "title": "Newbury Park Home Addition Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/los-angeles-pool-backyard-construction/",
+        "title": "Los Angeles Pool & Backyard Construction Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/westlake-village-kitchen-remodel/",
+        "title": "Westlake Village Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/calabasas-kitchen-remodel/",
+        "title": "Calabasas Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/kitchen-oxnard/",
+        "title": "Oxnard Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/camarillo-kitchen-remodel/",
+        "title": "Camarillo Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousandoaks/",
+        "title": "RnD Builders Inc | Thousand Oaks Bathroom Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/westhills/",
+        "title": "RnD Builders Inc | West Hills Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/placentia/",
+        "title": "RnD Builders Inc | Placentia Addition"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodel-2/",
+        "title": "Thousand Oaks Kitchen Remodel | Project Work | Custom Kitchen Design"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousandoaksremodel/",
+        "title": "RnD Builders Inc | Thousand Oaks Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/simi-valley-kitchen-remodel/",
+        "title": "Simi Valley Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/los-angeles-kitchen-remodel/",
+        "title": "Los Angeles Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodel-3/",
+        "title": "Thousand Oaks Kitchen Remodel | Project Work | Gallery"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/susan-dr-kitchen-remodel/",
+        "title": "Susan Dr Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/cindy-ave-kitchen-remodel/",
+        "title": "Cindy Ave Kitchen Remodel Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/thousand-oaks-kitchen-remodel-4/",
+        "title": "Thousand Oaks Kitchen & Laundry Remodel | Project Work | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/la-homeremodel/",
+        "title": "Los Angeles Home Remodel | Home Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/lapuente/",
+        "title": "La Puente Exterior Remodel | Exterior Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/torr2/",
+        "title": "RnD Builders Inc | Torrance Kitchen"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/manhattan/",
+        "title": "Manhattan Beach Bathroom Remodel | Bathroom Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/gardengrove/",
+        "title": "Garden Grove Kitchen | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/monte/",
+        "title": "RND Builders Inc | Montebello Bathroom Remodel"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/recent-work/chats/",
+        "title": "Chatsworth Kitchen Remodel | Kitchen Makeover"
+      }
     ],
     "blog": [
-      "https://www.rndbuildersinc.com/blog/",
-      "https://www.rndbuildersinc.com/blog/can-i-design-my-home-for-future-additions-or-expansions/",
-      "https://www.rndbuildersinc.com/blog/can-you-live-at-home-during-a-remodel/",
-      "https://www.rndbuildersinc.com/blog/what-hoa-regulations-restrict-remodeling-options/",
-      "https://www.rndbuildersinc.com/blog/do-contractors-obtain-building-permits-for-you/",
-      "https://www.rndbuildersinc.com/blog/why-do-i-need-ground-cover/",
-      "https://www.rndbuildersinc.com/blog/what-is-the-most-popular-kitchen-style/",
-      "https://www.rndbuildersinc.com/blog/7-stylish-bathroom-vanity-ideas-that-will-transform-your-space/",
-      "https://www.rndbuildersinc.com/blog/how-to-clean-a-cement-patio/",
-      "https://www.rndbuildersinc.com/blog/how-long-does-it-take-to-build-a-swimming-pool/",
-      "https://www.rndbuildersinc.com/blog/page/2/",
-      "https://www.rndbuildersinc.com/blog/page/8/",
-      "https://www.rndbuildersinc.com/blog/7-ideas-for-your-new-home-addition/",
-      "https://www.rndbuildersinc.com/blog/how-to-add-an-addition-to-a-mobile-home/",
-      "https://www.rndbuildersinc.com/blog/adu-versus-home-addition-which-is-best/",
-      "https://www.rndbuildersinc.com/blog/choosing-the-right-location-for-your-home-addition/",
-      "https://www.rndbuildersinc.com/blog/benefits-of-home-additions/",
-      "https://www.rndbuildersinc.com/blog/guide-to-home-additions-in-los-angeles/",
-      "https://www.rndbuildersinc.com/blog/top-5-home-improvements-to-increase-home-value/",
-      "https://www.rndbuildersinc.com/blog/5-popular-architectural-styles-to-inspire-your-home-remodel/",
-      "https://www.rndbuildersinc.com/blog/5-futuristic-technologies-to-include-in-your-home-remodel/",
-      "https://www.rndbuildersinc.com/blog/6-must-haves-in-a-modern-home/",
-      "https://www.rndbuildersinc.com/blog/top-six-myths-about-home-remodels/",
-      "https://www.rndbuildersinc.com/blog/how-to-budget-for-your-home-renovation/",
-      "https://www.rndbuildersinc.com/blog/how-to-maximize-your-homes-potential-with-an-attic-conversion/",
-      "https://www.rndbuildersinc.com/blog/what-is-the-3x4-kitchen-rule/",
-      "https://www.rndbuildersinc.com/blog/is-it-better-to-convert-a-garage-or-build-an-adu/",
-      "https://www.rndbuildersinc.com/blog/how-to-add-curb-appeal-to-a-flat-front-house/",
-      "https://www.rndbuildersinc.com/blog/do-i-need-a-permit-to-remodel-my-kitchen/",
-      "https://www.rndbuildersinc.com/blog/guide-to-top-10-bathroom-styles/",
-      "https://www.rndbuildersinc.com/blog/top-10-remodeling-mistakes-to-avoid/",
-      "https://www.rndbuildersinc.com/blog/5-ways-to-make-your-remodel-a-success/",
-      "https://www.rndbuildersinc.com/blog/5-tips-to-prepare-for-your-upcoming-remodeling-project/",
-      "https://www.rndbuildersinc.com/blog/how-can-modified-windows-maximize-efficiency-and-save-money/",
-      "https://www.rndbuildersinc.com/blog/remodeling-to-increase-home-value-top-7-tips-to-consider/",
-      "https://www.rndbuildersinc.com/blog/are-you-getting-an-estimate-a-quote-or-a-bid/",
-      "https://www.rndbuildersinc.com/blog/how-long-does-a-kitchen-remodel-take/",
-      "https://www.rndbuildersinc.com/blog/is-a-kitchen-remodel-tax-deductible/",
-      "https://www.rndbuildersinc.com/blog/kitchen-design-mistakes-to-avoid/",
-      "https://www.rndbuildersinc.com/blog/top-5-questions-to-ask-your-kitchen-design-consultant/",
-      "https://www.rndbuildersinc.com/blog/5-tips-for-how-to-design-a-modern-kitchen/",
-      "https://www.rndbuildersinc.com/blog/how-interior-design-impacts-how-you-feel-at-home/",
-      "https://www.rndbuildersinc.com/blog/how-to-decorate-your-remodeled-bathroom/",
-      "https://www.rndbuildersinc.com/blog/backyard-remodel-ideas-for-the-new-year/",
-      "https://www.rndbuildersinc.com/blog/exterior-remodeling-project-timeline/",
-      "https://www.rndbuildersinc.com/blog/homeowners-guide-to-pool-remodeling/",
-      "https://www.rndbuildersinc.com/blog/steps-of-swimming-pool-construction/",
-      "https://www.rndbuildersinc.com/blog/how-long-will-a-bathroom-remodel-take/",
-      "https://www.rndbuildersinc.com/blog/can-you-remodel-a-condo/",
-      "https://www.rndbuildersinc.com/blog/how-to-get-a-grant-for-an-adu/",
-      "https://www.rndbuildersinc.com/blog/page/3/",
-      "https://www.rndbuildersinc.com/blog/how-to-design-a-kitchen-for-your-home/",
-      "https://www.rndbuildersinc.com/blog/can-an-adu-be-two-story/",
-      "https://www.rndbuildersinc.com/blog/ways-to-increase-the-value-of-your-home/",
-      "https://www.rndbuildersinc.com/blog/home-improvement-tips/",
-      "https://www.rndbuildersinc.com/blog/modular-kitchens-absolutely-stunning-and-modern-look/",
-      "https://www.rndbuildersinc.com/blog/three-reasons-to-choose-custom-home-design/",
-      "https://www.rndbuildersinc.com/blog/what-services-provided-by-contractor/",
-      "https://www.rndbuildersinc.com/blog/page/7/",
-      "https://www.rndbuildersinc.com/blog/5-reasons-to-add-an-adu-to-your-property/",
-      "https://www.rndbuildersinc.com/blog/can-you-rent-out-an-adu/",
-      "https://www.rndbuildersinc.com/blog/how-long-does-adu-construction-take/",
-      "https://www.rndbuildersinc.com/blog/top-7-uses-for-an-adu/",
-      "https://www.rndbuildersinc.com/blog/does-an-adu-increase-home-value-in-california/",
-      "https://www.rndbuildersinc.com/blog/renting-out-your-additional-dwelling-unit/",
-      "https://www.rndbuildersinc.com/blog/top-8-tips-when-hiring-an-exterior-remodeling-contractor/",
-      "https://www.rndbuildersinc.com/blog/tips-to-choose-the-right-design-build-firm/",
-      "https://www.rndbuildersinc.com/blog/home-remodeling-do-s-and-dont-s/",
-      "https://www.rndbuildersinc.com/blog/step-by-step-guide-to-building-a-new-home/",
-      "https://www.rndbuildersinc.com/blog/step-by-step-guide-to-building-a-new-home-addition/",
-      "https://www.rndbuildersinc.com/blog/kitchen-renovation-ideas-on-a-budget/",
-      "https://www.rndbuildersinc.com/blog/tips-for-replacing-your-home-flooring/",
-      "https://www.rndbuildersinc.com/blog/tips-for-choosing-materials-for-interior-remodeling/",
-      "https://www.rndbuildersinc.com/blog/tips-for-combining-luxury-and-functionality-in-your-bathroom-remodel/",
-      "https://www.rndbuildersinc.com/blog/calming-color-combinations-for-your-bedroom-remodel/",
-      "https://www.rndbuildersinc.com/blog/5-must-haves-in-a-modern-kitchen/",
-      "https://www.rndbuildersinc.com/blog/picking-the-best-materials-for-your-bathroom-remodel/",
-      "https://www.rndbuildersinc.com/blog/top-5-ways-to-increase-your-houses-value/",
-      "https://www.rndbuildersinc.com/blog/how-to-communicate-ideas-to-your-interior-designer/",
-      "https://www.rndbuildersinc.com/blog/4-ways-to-finance-your-backyard-project/",
-      "https://www.rndbuildersinc.com/blog/page/4/",
-      "https://www.rndbuildersinc.com/blog/page/6/",
-      "https://www.rndbuildersinc.com/blog/how-to-start-planning-a-kitchen-renovation/",
-      "https://www.rndbuildersinc.com/blog/page/5/"
+      {
+        "url": "https://www.rndbuildersinc.com/blog/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/can-i-design-my-home-for-future-additions-or-expansions/",
+        "title": "Can I Design My Home For Future Additions or Expansions? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/can-you-live-at-home-during-a-remodel/",
+        "title": "Can You Live at Home During a Remodel? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/what-hoa-regulations-restrict-remodeling-options/",
+        "title": "What HOA Regulations Restrict Remodeling Options? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/do-contractors-obtain-building-permits-for-you/",
+        "title": "Do Contractors Obtain Building Permits for You? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/why-do-i-need-ground-cover/",
+        "title": "Why Do I Need Ground Cover? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/what-is-the-most-popular-kitchen-style/",
+        "title": "What Is the Most Popular Kitchen Style? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/7-stylish-bathroom-vanity-ideas-that-will-transform-your-space/",
+        "title": "7 Stylish Bathroom Vanity Ideas That Will Transform Your Space | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-clean-a-cement-patio/",
+        "title": "How to Clean a Cement Patio | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-long-does-it-take-to-build-a-swimming-pool/",
+        "title": "How Long Does It Take to Build a Swimming Pool? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/2/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/8/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/7-ideas-for-your-new-home-addition/",
+        "title": "7 Ideas for Your New Home Addition | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-add-an-addition-to-a-mobile-home/",
+        "title": "How to Add an Addition to a Mobile Home | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/adu-versus-home-addition-which-is-best/",
+        "title": "ADU versus Home Addition: Which Is Best For You? | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/choosing-the-right-location-for-your-home-addition/",
+        "title": "Choosing the Right Location for Your Home Addition | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/benefits-of-home-additions/",
+        "title": "Benefits of Home Additions | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/guide-to-home-additions-in-los-angeles/",
+        "title": "Guide to Home Additions in Los Angeles | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-5-home-improvements-to-increase-home-value/",
+        "title": "Top 5 Home Improvements to Increase Home Value | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-popular-architectural-styles-to-inspire-your-home-remodel/",
+        "title": "5 Popular Architectural Styles to Inspire Your Home Remodel | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-futuristic-technologies-to-include-in-your-home-remodel/",
+        "title": "5 Futuristic Technologies to Include In Your Home Remodel | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/6-must-haves-in-a-modern-home/",
+        "title": "6 Must-Haves in a Modern Home | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-six-myths-about-home-remodels/",
+        "title": "Top Six Myths About Home Remodels | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-budget-for-your-home-renovation/",
+        "title": "How to Budget for Your Home Renovation | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-maximize-your-homes-potential-with-an-attic-conversion/",
+        "title": "How to Maximize Your Home's Potential with an Attic Conversion | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/what-is-the-3x4-kitchen-rule/",
+        "title": "What Is the 3x4 Kitchen Rule? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/is-it-better-to-convert-a-garage-or-build-an-adu/",
+        "title": "Is It Better to Convert a Garage or Build an ADU? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-add-curb-appeal-to-a-flat-front-house/",
+        "title": "How to Add Curb Appeal to a Flat-Front House | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/do-i-need-a-permit-to-remodel-my-kitchen/",
+        "title": "Do I Need a Permit to Remodel My Kitchen? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/guide-to-top-10-bathroom-styles/",
+        "title": "Guide to Top 10 Bathroom Styles | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-10-remodeling-mistakes-to-avoid/",
+        "title": "Top 10 Remodeling Mistakes to Avoid | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-ways-to-make-your-remodel-a-success/",
+        "title": "5 Ways to Make Your Remodel a Success | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-tips-to-prepare-for-your-upcoming-remodeling-project/",
+        "title": "5 Tips to Prepare for Your Upcoming Remodeling Project | RND"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-can-modified-windows-maximize-efficiency-and-save-money/",
+        "title": "How Can Modified Windows Maximize Efficiency and Save Money? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/remodeling-to-increase-home-value-top-7-tips-to-consider/",
+        "title": "Remodeling to Increase Home Value? Top 7 Tips to Consider | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/are-you-getting-an-estimate-a-quote-or-a-bid/",
+        "title": "Are You Getting An Estimate, A Quote, Or A Bid? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-long-does-a-kitchen-remodel-take/",
+        "title": "How Long Does a Kitchen Remodel Take? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/is-a-kitchen-remodel-tax-deductible/",
+        "title": "Is a Kitchen Remodel Tax Deductible? | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/kitchen-design-mistakes-to-avoid/",
+        "title": "Kitchen Design Mistakes to Avoid | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-5-questions-to-ask-your-kitchen-design-consultant/",
+        "title": "Top 5 Questions to Ask Your Kitchen Design Consultant | Build Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-tips-for-how-to-design-a-modern-kitchen/",
+        "title": "5 Tips for How to Design a Modern Kitchen | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-interior-design-impacts-how-you-feel-at-home/",
+        "title": "How Interior Design Impacts How You Feel at Home | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-decorate-your-remodeled-bathroom/",
+        "title": "How to decorate your remodeled bathroom | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/backyard-remodel-ideas-for-the-new-year/",
+        "title": "Backyard Remodel Ideas for the New Year | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/exterior-remodeling-project-timeline/",
+        "title": "The Exterior Remodeling Project Timeline | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/homeowners-guide-to-pool-remodeling/",
+        "title": "Homeowner's Guide to Pool Remodeling | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/steps-of-swimming-pool-construction/",
+        "title": "Steps of Swimming Pool Construction | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-long-will-a-bathroom-remodel-take/",
+        "title": "How Long Will a Bathroom Remodel Take? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/can-you-remodel-a-condo/",
+        "title": "Can You Remodel a Condo? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-get-a-grant-for-an-adu/",
+        "title": "How to Get a Grant for an ADU | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/3/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-design-a-kitchen-for-your-home/",
+        "title": "How to Design the Kitchen of your Dreams | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/can-an-adu-be-two-story/",
+        "title": "Can an ADU be Two-Story? | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/ways-to-increase-the-value-of-your-home/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/home-improvement-tips/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/modular-kitchens-absolutely-stunning-and-modern-look/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/three-reasons-to-choose-custom-home-design/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/what-services-provided-by-contractor/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/7/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-reasons-to-add-an-adu-to-your-property/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/can-you-rent-out-an-adu/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-long-does-adu-construction-take/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-7-uses-for-an-adu/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/does-an-adu-increase-home-value-in-california/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/renting-out-your-additional-dwelling-unit/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-8-tips-when-hiring-an-exterior-remodeling-contractor/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/tips-to-choose-the-right-design-build-firm/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/home-remodeling-do-s-and-dont-s/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/step-by-step-guide-to-building-a-new-home/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/step-by-step-guide-to-building-a-new-home-addition/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/kitchen-renovation-ideas-on-a-budget/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/tips-for-replacing-your-home-flooring/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/tips-for-choosing-materials-for-interior-remodeling/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/tips-for-combining-luxury-and-functionality-in-your-bathroom-remodel/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/calming-color-combinations-for-your-bedroom-remodel/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/5-must-haves-in-a-modern-kitchen/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/picking-the-best-materials-for-your-bathroom-remodel/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/top-5-ways-to-increase-your-houses-value/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-communicate-ideas-to-your-interior-designer/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/4-ways-to-finance-your-backyard-project/",
+        "title": "4 Ways to Finance Your Backyard Project | RnD Builders Inc - Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/4/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/6/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/how-to-start-planning-a-kitchen-renovation/",
+        "title": "How to Start Planning a Kitchen Renovation (And Why Hire a Contractor)"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/blog/page/5/",
+        "title": "Home Renovations in Ventura County | RND Builders Blog"
+      }
     ],
     "about": [
-      "https://www.rndbuildersinc.com/contact/",
-      "https://www.rndbuildersinc.com/about-us/",
-      "https://www.rndbuildersinc.com/testimonials/"
+      {
+        "url": "https://www.rndbuildersinc.com/contact/",
+        "title": "Contact Us | RnD Builders Inc | Top Remodelers Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/about-us/",
+        "title": "About Us | RnD Builders Inc | Trusted Home Remodeling Experts"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/testimonials/",
+        "title": "RnD Client Testimonials | Design & Build Firm Ventura County"
+      }
     ],
     "location": [
-      "https://www.rndbuildersinc.com/service-areas/",
-      "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-los-angeles/",
-      "https://www.rndbuildersinc.com/service-areas/home-remodeling-contractor-woodland-hills/",
-      "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-agoura-hills/",
-      "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-westlake-village/",
-      "https://www.rndbuildersinc.com/service-areas/hawthorne/",
-      "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-ventura-county/",
-      "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-thousand-oaks/",
-      "https://www.rndbuildersinc.com/service-areas/home-remodeling-contractor-moorpark/",
-      "https://www.rndbuildersinc.com/service-areas/home-remodeling-contractor-camarillo/",
-      "https://www.rndbuildersinc.com/service-areas/oxnard/"
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/",
+        "title": "Service Areas | Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-los-angeles/",
+        "title": "Best Home Renovation Contractor LA County | RnD Builders Inc."
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-remodeling-contractor-woodland-hills/",
+        "title": "Home Remodeling Contractor in Woodland Hills | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-agoura-hills/",
+        "title": "Top Home Remodeling Contractor Services | Agoura Hills CA"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-westlake-village/",
+        "title": "Top Home Renovation Contractor | Westlake Village CA"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/hawthorne/",
+        "title": "Hawthorne | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-ventura-county/",
+        "title": "Best Home Renovation Contractor in Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-renovation-contractor-thousand-oaks/",
+        "title": "Top Home Renovation Contractor in Thousand Oaks, CA"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-remodeling-contractor-moorpark/",
+        "title": "Home Remodeling Contractor in Moorpark | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/home-remodeling-contractor-camarillo/",
+        "title": "Home Remodeling Contractor in Camarillo | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/service-areas/oxnard/",
+        "title": "Oxnard | RnD Builders Inc"
+      }
     ],
     "other": [
-      "https://www.rndbuildersinc.com/",
-      "https://www.rndbuildersinc.com/our-services/",
-      "https://www.rndbuildersinc.com/our-process/",
-      "https://www.rndbuildersinc.com/rndesign/",
-      "https://www.rndbuildersinc.com/privacy/",
-      "https://www.rndbuildersinc.com/terms-and-conditions/",
-      "https://www.rndbuildersinc.com/category/home-additions/",
-      "https://www.rndbuildersinc.com/category/home-remodeling/",
-      "https://www.rndbuildersinc.com/category/uncategorized/",
-      "https://www.rndbuildersinc.com/category/remodeling/",
-      "https://www.rndbuildersinc.com/category/exterior-remodeling/",
-      "https://www.rndbuildersinc.com/category/design/",
-      "https://www.rndbuildersinc.com/category/new-construction/",
-      "https://www.rndbuildersinc.com/category/remodeling/page/2/",
-      "https://www.rndbuildersinc.com/category/remodeling/page/5/",
-      "https://www.rndbuildersinc.com/category/new-construction/page/2/",
-      "https://www.rndbuildersinc.com/category/remodeling/page/3/",
-      "https://www.rndbuildersinc.com/category/remodeling/page/4/",
-      "https://www.rndbuildersinc.com/exterior/"
+      {
+        "url": "https://www.rndbuildersinc.com/",
+        "title": "Top Home Remodeling Contractor In Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/our-services/",
+        "title": "Home Remodeling Services | RnD Builders Inc | Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/our-process/",
+        "title": "Our Design & Build Process | RnD Builders Inc | Ventura County"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/rndesign/",
+        "title": "Plan & Design Your Dream | Build Your Dream Home - Ventura CA"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/privacy/",
+        "title": "RnD Builders Inc | Privacy"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/terms-and-conditions/",
+        "title": "Terms and Conditions | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/home-additions/",
+        "title": "Home Additions Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/home-remodeling/",
+        "title": "Home Remodeling Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/uncategorized/",
+        "title": "Uncategorized Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/remodeling/",
+        "title": "Remodeling Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/exterior-remodeling/",
+        "title": "Exterior Remodeling Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/design/",
+        "title": "Design Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/new-construction/",
+        "title": "New Construction Archives | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/remodeling/page/2/",
+        "title": "Remodeling Archives | Page 2 of 5 | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/remodeling/page/5/",
+        "title": "Remodeling Archives | Page 5 of 5 | RnD Builders Inc"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/new-construction/page/2/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/remodeling/page/3/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/category/remodeling/page/4/",
+        "title": "No title"
+      },
+      {
+        "url": "https://www.rndbuildersinc.com/exterior/",
+        "title": "Top Exterior Remodeling Design & Build Firm | Ventura County"
+      }
     ]
   },
   "all_urls": [
