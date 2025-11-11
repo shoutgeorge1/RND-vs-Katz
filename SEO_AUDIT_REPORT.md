@@ -11,12 +11,16 @@ This audit compares the SEO structure and content coverage of two construction c
 2. **Katz Design Builders** (https://katzdesignbuilders.com/)
 
 **Katz Design Builders**: 100 pages analyzed
-**RND Builders**: Site structure analyzed via sitemap and manual review
+**RND Builders**: 179 pages found in sitemap
 
 ## 1. Sitemap & Robots.txt Status
 
 ### RND Builders
 - **Sitemap**: https://www.rndbuildersinc.com/sitemap_index.xml (found in robots.txt)
+- **Total URLs in Sitemap**: 179
+  - Service Pages: 125
+  - Portfolio Pages: 54
+  - Blog Pages: 0
 - **Robots.txt**: Accessible
 
 ### Katz Design Builders
@@ -27,11 +31,11 @@ This audit compares the SEO structure and content coverage of two construction c
 
 | Category | RND Builders | Katz Design Builders | Gap Analysis |
 |----------|--------------|----------------------|--------------|
-| Service Pages | Limited | 87 | **Major Gap** |
-| Portfolio/Project Pages | Aggregated | 13 individual pages | **Major Gap** |
-| Blog/Resources | Limited | 0 | **Gap** |
-| About/Contact/Team | Present | 0 | Minor |
-| City/Location Pages | Limited | 59 | **Major Gap** |
+| Service Pages | 125 | 87 | Similar |
+| Portfolio/Project Pages | 54 | 13 | Similar |
+| Blog/Resources | 0 | 0 | Similar |
+| About/Contact/Team | 0 | 0 | Minor |
+| City/Location Pages | 0 | 59 | **Major Gap** |
 
 ## 3. Katz Design Builders - Detailed URL Structure
 
